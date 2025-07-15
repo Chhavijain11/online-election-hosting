@@ -102,6 +102,3 @@ root/
 | `SellProd()` | Marks a product as sold |
 | `viewstate()` | Checks the current state of a product |
 
-## Contributors
-- **Your Name** (your.email@example.com)
-- **Contributor 2** (contributor2@example.com)
